@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: client
-    image: stephengrider/multi-client
+    image: stephengrider/multi-worker
     resources:
       limits:
         memory: "128Mi"
