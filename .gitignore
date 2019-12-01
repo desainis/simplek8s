@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
+service_account.json
 
 # C extensions
 *.so
