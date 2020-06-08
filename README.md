@@ -5,6 +5,8 @@
 
 # An Example of a Docker / Kubernetes Workflow
 
+![Alt Text](demo.gif)
+
 ### Working with Docker
 - Create seperate folders for your microservices (In this example, `client`=frontend, `server`=backend, `worker`=intermediary)
 - Create your development Dockerfile (`Dockerfile.dev`)
